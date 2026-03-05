@@ -14,7 +14,7 @@ public class Student {
     // Constructor Injection
     public Student(
             @Value("101") int studentId,
-            @Value("Satish") String name,
+            @Value("Praveen") String name,
             @Value("Java Full Stack") String course,
             @Value("2026") int year) {
 

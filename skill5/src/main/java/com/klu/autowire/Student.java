@@ -15,7 +15,7 @@ public class Student {
 
     public Student() {
         this.id = 101;
-        this.name = "Satish";
+        this.name = "Praveen";
         this.gender = "Male";
     }
 

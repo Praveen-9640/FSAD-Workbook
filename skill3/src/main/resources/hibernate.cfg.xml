@@ -13,7 +13,7 @@
         </property>
 
         <property name="hibernate.connection.url">
-            jdbc:mysql://localhost:3306/experiment2
+            jdbc:mysql://localhost:3306/skill
         </property>
 
         <property name="hibernate.connection.username">
@@ -21,7 +21,7 @@
         </property>
 
         <property name="hibernate.connection.password">
-            satishu143
+            Praveen@9640
         </property>
 
         <property name="hibernate.dialect">
